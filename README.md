@@ -1,3 +1,4 @@
+## About
 - 👋 Hi, I’m @almaftuchin
 - 👀 I’m interested in Web Development and Development Android App
 - 🌱 I’m currently learning C++
