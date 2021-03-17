@@ -11,6 +11,8 @@
 - [Linkedin](https://www.linkedin.com/in/almaftuchin)
 - [Youtube](https://www.youtube.com/Almaftuchin)
 
+## Donate
+- [Trakteer](https://trakteer.id/almaftuchin)
 <!---
 almaftuchin/almaftuchin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
