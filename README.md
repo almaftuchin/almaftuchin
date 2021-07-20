@@ -1,5 +1,5 @@
 ## About
-- 👋 Hi, I’m @almaftuchin
+- 👋 Hi, I’m Almaftuchin
 - 👀 I’m interested in Web Development and Development Android App
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Website Development
@@ -13,7 +13,7 @@
 - [Youtube](https://www.youtube.com/Almaftuchin)
 
 ## Donate
-- [Trakteer](https://trakteer.id/almaftuchin)
+- [Donate with IDR](https://trakteer.id/almaftuchin/tip) | [Donate with USD](https://own3d.pro/almaftuchin/tip)
 <!---
 almaftuchin/almaftuchin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
