@@ -6,7 +6,7 @@
 - 📫 How to reach me me@almaftuchin.com
 
 ## Social Media:
-- [Facebook](https://www.facebook.com/m.Almaftuchin)
+- [Facebook](https://www.facebook.com/Almaftuchin)
 - [Twitter](https://www.twitter.com/Almaftuchin)
 - [Instagram](https://www.instagram.com/Almaftuchin)
 - [Linkedin](https://www.linkedin.com/in/almaftuchin)
