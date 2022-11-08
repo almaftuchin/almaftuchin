@@ -13,7 +13,7 @@
 - [Youtube](https://www.youtube.com/Almaftuchin)
 
 ## Donate
-- [Donate with IDR](https://trakteer.id/almaftuchin/tip) | [Donate with USD]([https://trakteer.id/almaftuchin/tip](https://ko-fi.com/almaftuchin/?hidefeed=true&widget=true&embed=true&preview=true))
+- [Donate with IDR](https://trakteer.id/almaftuchin/tip) | [Donate with USD]([https://trakteer.id/almaftuchin/tip](https://ko-fi.com/almaftuchin/?hidefeed=true&widget=true&embed=true&preview=true)
 <!---
 almaftuchin/almaftuchin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
