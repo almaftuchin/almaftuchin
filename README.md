@@ -11,6 +11,7 @@
 - [Instagram](https://www.instagram.com/Almaftuchin)
 - [Linkedin](https://www.linkedin.com/in/almaftuchin)
 - [Youtube](https://www.youtube.com/Almaftuchin)
+- [Mastodon](https://mastodon.social/@almaftuchin)
 
 ## Donate
 - [Donate with IDR](https://trakteer.id/almaftuchin/tip) | [Donate with USD](https://ko-fi.com/almaftuchin/?hidefeed=true&widget=true&embed=true&preview=true)
