@@ -3,7 +3,6 @@
 - 👀 I’m interested in Web Development and Android App Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Website Development
-- 📫 How to reach me me@almaftuchin.com
 
 ## Social Media:
 - [Facebook](https://www.facebook.com/Almaftuchin)
